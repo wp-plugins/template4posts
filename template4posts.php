@@ -4,7 +4,7 @@ Plugin Name: Template for Posts
 Version: 2.1
 Plugin URI: http://www.beapi.fr
 Description: Define a template about a post. To use, please read the readme.txt.
-Author: Be API
+Author: djudorange
 Author URI: http://www.beapi.fr
 
 ----
