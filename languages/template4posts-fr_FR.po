@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple View Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-23 17:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Julien Guilmont <contact@djudorange.fr>\n"
+"Language-Team: Julien Guilmont <julien.guilmont@beapi.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts\n"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:10
+msgid "Post Template"
+msgstr "Mise en page d'article"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:34
+msgid "Listing Layout:"
+msgstr "Mise en page de l'article en listing"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:36
+msgid "Edit"
+msgstr "Editer"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:48
+msgid "OK"
+msgstr "OK"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:49
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:92
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:118
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:123
+msgid "Listing Layout Settings"
+msgstr "Paramètres de mise en page d'article listing"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:92
+msgid "No Template"
+msgstr "Pas de mise en page"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:119
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:135
+msgid "General"
+msgstr "Général"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:143
+msgid "Listing Layout Default"
+msgstr "Mise en page par défaut"
+
+#: /Users/krystena/Documents/Sites/liferiviera/wp-content/plugins/template4posts/inc/admin.class.php:162
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+

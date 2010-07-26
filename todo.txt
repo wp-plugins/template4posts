@@ -1,0 +1,7 @@
+Internationalisation + traduction FR Ok
+Renomming du plugin Ok
+Utiliser une fonction pour le thème Ok
+
+option: gerer manuellement les templates de listing post
+option: gerer manuellemnt les templates de single post
+affecter automatiquement un template list + single à un type de contenu
